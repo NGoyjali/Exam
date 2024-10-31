@@ -1,0 +1,11 @@
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\bin\Debug\net8.0\ExamSoft.Domain.deps.json
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\bin\Debug\net8.0\ExamSoft.Domain.dll
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\bin\Debug\net8.0\ExamSoft.Domain.pdb
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\obj\Debug\net8.0\ExamSoft.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\obj\Debug\net8.0\ExamSoft.Domain.AssemblyInfoInputs.cache
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\obj\Debug\net8.0\ExamSoft.Domain.AssemblyInfo.cs
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\obj\Debug\net8.0\ExamSoft.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\obj\Debug\net8.0\ExamSoft.Domain.dll
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\obj\Debug\net8.0\refint\ExamSoft.Domain.dll
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\obj\Debug\net8.0\ExamSoft.Domain.pdb
+C:\Users\Nurlan\RiderProjects\ExamSoft\ExamSoft.Domain\obj\Debug\net8.0\ref\ExamSoft.Domain.dll

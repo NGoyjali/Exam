@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHNojH+iSR8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nurlan\\RiderProjects\\ExamSoft\\ExamSoft.Application\\ExamSoft.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nurlan\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
